@@ -2,8 +2,8 @@
 Data Analysis Using Python Pandas For A Super Store 
 Sales Analysis for a Super Store Using Python Pandas<Br>
 In this analysis using Python Pandas & Python Matplotlib to analyze and answer business questions.<br> 
-About 4 years worth of sales data, this data contains hundreds of thousands of various items store purchases broken down by categories and subcategories, ship mode, sales, profit, quantity, etc.<br>
-On this journey I went from Curating the data, to asking important Business Questions and then analysing the dataset to deduct essential Insights for Business Decisons making.<br>
+About 4 years worth of sales data, this data contains hundreds of thousands of various items purchases from the store which are broken down by categories and subcategories, ship mode, sales, profit, quantity, etc.<br>
+On this journey I went from Curating the data, to asking important Business Questions and then analysing the dataset to deduct important insights for Business Decisons making process.<br>
 
 The Process inludes:<br>
  A.  DATA CLEANING.<br>
