@@ -27,5 +27,5 @@ They include:<br>
 3.  Parsing cells as strings to make new columns (.str)<br>
 4.  Using the .apply() method<br>
 5.  Using groupby to perform aggregate analysis<br>
-6.  Plotting bar charts and trend graph to visualize our results<br>
-7.  Labeling our graphs<br>
+6.  Plotting bar charts and trend graph to visualize the results<br>
+7.  Labeling the graphs<br>
